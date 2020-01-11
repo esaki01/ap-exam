@@ -1,4 +1,4 @@
-# applied-it-engineer
+# ap-exam
 > Wiki for Applied Information Technology Engineer Examination.
 
 ## Notes
